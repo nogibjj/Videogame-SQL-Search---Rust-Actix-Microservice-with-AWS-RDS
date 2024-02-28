@@ -1,0 +1,10 @@
+/workspaces/Videogame-SQL-Search---Rust-Actix-Microservice-with-AWS-RDS/vgex/target/debug/deps/libhashlink-e8b7da764b8c2a3c.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.8.4/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.8.4/src/linked_hash_map.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.8.4/src/linked_hash_set.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.8.4/src/lru_cache.rs
+
+/workspaces/Videogame-SQL-Search---Rust-Actix-Microservice-with-AWS-RDS/vgex/target/debug/deps/libhashlink-e8b7da764b8c2a3c.rlib: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.8.4/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.8.4/src/linked_hash_map.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.8.4/src/linked_hash_set.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.8.4/src/lru_cache.rs
+
+/workspaces/Videogame-SQL-Search---Rust-Actix-Microservice-with-AWS-RDS/vgex/target/debug/deps/hashlink-e8b7da764b8c2a3c.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.8.4/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.8.4/src/linked_hash_map.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.8.4/src/linked_hash_set.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.8.4/src/lru_cache.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.8.4/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.8.4/src/linked_hash_map.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.8.4/src/linked_hash_set.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.8.4/src/lru_cache.rs:

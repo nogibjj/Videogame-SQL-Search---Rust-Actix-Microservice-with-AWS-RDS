@@ -1,0 +1,7 @@
+/workspaces/Videogame-SQL-Search---Rust-Actix-Microservice-with-AWS-RDS/videogame/target/debug/deps/libiana_time_zone-14bb9eed476eb835.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.60/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.60/src/ffi_utils.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.60/src/tz_linux.rs
+
+/workspaces/Videogame-SQL-Search---Rust-Actix-Microservice-with-AWS-RDS/videogame/target/debug/deps/iana_time_zone-14bb9eed476eb835.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.60/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.60/src/ffi_utils.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.60/src/tz_linux.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.60/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.60/src/ffi_utils.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.60/src/tz_linux.rs:

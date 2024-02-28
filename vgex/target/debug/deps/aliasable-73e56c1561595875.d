@@ -1,0 +1,11 @@
+/workspaces/Videogame-SQL-Search---Rust-Actix-Microservice-with-AWS-RDS/vgex/target/debug/deps/libaliasable-73e56c1561595875.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/mut_ref.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/boxed.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/string.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/vec.rs
+
+/workspaces/Videogame-SQL-Search---Rust-Actix-Microservice-with-AWS-RDS/vgex/target/debug/deps/libaliasable-73e56c1561595875.rlib: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/mut_ref.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/boxed.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/string.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/vec.rs
+
+/workspaces/Videogame-SQL-Search---Rust-Actix-Microservice-with-AWS-RDS/vgex/target/debug/deps/aliasable-73e56c1561595875.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/mut_ref.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/boxed.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/string.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/vec.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/mut_ref.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/boxed.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/string.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aliasable-0.1.3/src/vec.rs:

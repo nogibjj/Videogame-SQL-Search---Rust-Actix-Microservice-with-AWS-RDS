@@ -1,0 +1,9 @@
+/workspaces/Videogame-SQL-Search---Rust-Actix-Microservice-with-AWS-RDS/vgex/target/debug/deps/libweb_sys-026b5148cf1557b2.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.68/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.68/src/features/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.68/src/features/gen_EventTarget.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.68/src/features/gen_Window.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.68/src/features/gen_console.rs
+
+/workspaces/Videogame-SQL-Search---Rust-Actix-Microservice-with-AWS-RDS/vgex/target/debug/deps/web_sys-026b5148cf1557b2.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.68/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.68/src/features/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.68/src/features/gen_EventTarget.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.68/src/features/gen_Window.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.68/src/features/gen_console.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.68/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.68/src/features/mod.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.68/src/features/gen_EventTarget.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.68/src/features/gen_Window.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/web-sys-0.3.68/src/features/gen_console.rs:

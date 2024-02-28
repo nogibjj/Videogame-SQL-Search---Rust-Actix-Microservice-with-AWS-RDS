@@ -1,0 +1,10 @@
+/workspaces/Videogame-SQL-Search---Rust-Actix-Microservice-with-AWS-RDS/vgex/target/debug/deps/libeither-6c136524a5f3f23a.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/serde_untagged.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/serde_untagged_optional.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/iterator.rs
+
+/workspaces/Videogame-SQL-Search---Rust-Actix-Microservice-with-AWS-RDS/vgex/target/debug/deps/libeither-6c136524a5f3f23a.rlib: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/serde_untagged.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/serde_untagged_optional.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/iterator.rs
+
+/workspaces/Videogame-SQL-Search---Rust-Actix-Microservice-with-AWS-RDS/vgex/target/debug/deps/either-6c136524a5f3f23a.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/serde_untagged.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/serde_untagged_optional.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/iterator.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/serde_untagged.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/serde_untagged_optional.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/either-1.10.0/src/iterator.rs:

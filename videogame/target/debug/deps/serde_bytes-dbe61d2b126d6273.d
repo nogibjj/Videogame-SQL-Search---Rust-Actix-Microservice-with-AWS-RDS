@@ -1,0 +1,10 @@
+/workspaces/Videogame-SQL-Search---Rust-Actix-Microservice-with-AWS-RDS/videogame/target/debug/deps/libserde_bytes-dbe61d2b126d6273.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/bytearray.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/bytes.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/de.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/ser.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/bytebuf.rs
+
+/workspaces/Videogame-SQL-Search---Rust-Actix-Microservice-with-AWS-RDS/videogame/target/debug/deps/serde_bytes-dbe61d2b126d6273.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/bytearray.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/bytes.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/de.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/ser.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/bytebuf.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/bytearray.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/bytes.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/de.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/ser.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.14/src/bytebuf.rs:

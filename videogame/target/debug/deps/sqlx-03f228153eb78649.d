@@ -1,0 +1,11 @@
+/workspaces/Videogame-SQL-Search---Rust-Actix-Microservice-with-AWS-RDS/videogame/target/debug/deps/libsqlx-03f228153eb78649.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/any/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/macros/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/ty_match.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/lib.md /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/macros/test.md /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/any/install_drivers_note.md
+
+/workspaces/Videogame-SQL-Search---Rust-Actix-Microservice-with-AWS-RDS/videogame/target/debug/deps/sqlx-03f228153eb78649.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/any/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/macros/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/ty_match.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/lib.md /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/macros/test.md /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/any/install_drivers_note.md
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/any/mod.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/macros/mod.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/ty_match.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/lib.md:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/macros/test.md:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.7.3/src/any/install_drivers_note.md:
